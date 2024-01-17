@@ -1,0 +1,34 @@
+body{background-color: #ffb905;
+}
+.head-top{
+    text-align: center;
+        padding-top: 2%; padding-bottom: 6%;
+}
+.p1{
+    color: #004743;
+}
+.p2{
+    margin-top: 2%; font-size: xx-large;
+}
+.block-with-img{
+    border: 2px solid #004743; 
+               padding: 20% 4%;background-color: #004743;
+}
+.headcolor{
+    color: white;
+}
+.headpara{
+    color: #ffb905;
+    margin-top: 15%;
+}
+.download-button{
+    text-align: center;
+     margin-top: 5%;
+     margin-bottom: 5%;
+}
+.download-button-box{
+    padding: 1% 3%;
+    border-radius: 10px 10px;
+    border: none;
+    color: #004743;
+}
